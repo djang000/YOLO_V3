@@ -3,7 +3,7 @@
 ### Installation
 if you want to use pretrained models, then all you need to do is:
 ```sh
-git clone https://oss.navercorp.com/deep-purple/YOLO_V3.git
+git clone https://github.com/djang000/YOLO_V3.git
 ```
 
 if you also want to train new modes, you will need the MS-COCO, VOC or other natural images for training files and Mobienet_V2-1.0 wegihts by running.
